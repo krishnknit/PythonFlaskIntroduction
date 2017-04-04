@@ -1,0 +1,2 @@
+export DATABASE_URL="mysql://root:cybage@123@localhost/discover_flask_dev"
+export APP_SETTINGS="config.DevelopmentConfig"
